@@ -1,0 +1,5 @@
+Sobre mim
+=========
+Nome: Pedro Delmonaco
+Curso: Analise e Desenvolvimento de Sistemas - UniFil
+Interesses: programacao, versionamento de codigo e desenvolvimento de software.
